@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./About.css";
-import { FaAngleDoubleRight } from "react-icons/fa";
+
 
 const About = () => {
   return (
@@ -12,19 +12,16 @@ const About = () => {
 
       <div className="row">
         <div className="image">
-          <img src="image/about-img.svg" alt="" />
+          <img src="https://image.freepik.com/free-photo/doctor-with-stethoscope-hand-hospital-background_34200-156.jpg" alt="" />
         </div>
 
         <div className="content">
-          <h3>We take care of your healthy life</h3>
+          <h3>We take care of your healthy</h3>
           <p>
-            Close to Home. Close to Your Heart. Compassion. Innovation.
-            Trust......
+            Check your Health find your body and soul healthy!!
           </p>
-          <p>Because Your Life Matters. Healing Hands. Caring Hearts........</p>
-          <Link to="/about" className="btn">
-            contact us <FaAngleDoubleRight></FaAngleDoubleRight>
-          </Link>
+          <p>Because Your Life Matters. Healing Hands. Caring Hearts.</p>
+
         </div>
       </div>
     </section>
