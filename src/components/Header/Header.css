@@ -1,0 +1,9 @@
+.navigation {
+  background-color: rgb(238, 238, 105);
+}
+.nav-image {
+  width: 50px;
+}
+.nav-link {
+  color: rgb(233, 241, 234) !important;
+}

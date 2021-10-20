@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "X-ray",
+    "description": "X-rays are a type of radiation called electromagnetic waves. X-ray imaging creates pictures of the inside of your body.",
+    "desctiptionFull": "X-rays are a type of radiation called electromagnetic waves. X-ray imaging creates pictures of the inside of your body. The images show the parts of your body in different shades of black and white. This is because different tissues absorb different amounts of radiation. Calcium in bones absorbs x-rays the most, so bones look white. Fat and other soft tissues absorb less and look gray. Air absorbs the least, so lungs look black.",
+    "img": "https://www.healthcareradius.in/public/images/2020/11/25/doctor-looking-chest-x-ray.jpg",
+    "total_cost": "$ 50",
+    "time": "Mon-Fri(09:30AM - 04:00PM)"
+  },
+  {
+    "id": 2,
+    "name": "Ultra-sound",
+    "description": "An ultrasound is an imaging test that uses sound waves to create a picture (also known as a sonogram) ",
+    "desctiptionFull": "An ultrasound is an imaging test that uses sound waves to create a picture (also known as a sonogram) of organs, tissues, and other structures inside the body. Unlike x-rays, ultrasounds don’t use any radiation. An ultrasound can also show parts of the body in motion, such as a heart beating or blood flowing through blood vessels.   There are two main categories of ultrasounds: pregnancy ultrasound and diagnostic ultrasound.Pregnancy ultrasound is used to look at an unborn baby. The test can provide information about a baby’s growth, development, and overall health.Diagnostic ultrasound is used to view and provide information about other internal parts of the body. These include the heart, blood vessels, liver, bladder, kidneys, and female reproductive organs.  Other names: sonogram, ultrasonography, pregnancy sonography, fetal ultrasound, obstetric ultrasound, diagnostic medical sonography, diagnostic medical ultrasound",
+    "img": "https://cdn-prod.medicalnewstoday.com/content/images/articles/245/245491/ultrasound-scan.jpg",
+    "total_cost": "$ 80",
+    "time": "Mon-Fri(09:30AM - 04:00PM)"
+  },
+  {
+    "id": 3,
+    "name": "Electrocardiogram (ECG)",
+    "description": "An electrocardiogram (ECG) is a simple test that can be used to check your hearts rhythm and electrical activity.",
+    "desctiptionFull": "ensors attached to the skin are used to detect the electrical signals produced by your heart each time it beats.These signals are recorded by a machine and are looked at by a doctor to see if they are unusual.An ECG may be requested by a heart specialist (cardiologist) or any doctor who thinks you might have a problem with your heart, including your GP.The test can be carried out by a specially trained healthcare professional at a hospital, a clinic or at your GP surgery.Despite having a similar name, an ECG is not the same as an echocardiogram, which is a scan of the heart.",
+    "img": "https://static.wixstatic.com/media/3bb9c4_8e0955fb299f47fb907e5c312c4649e2~mv2.jpg/v1/fill/w_640,h_400,al_c,q_80/3bb9c4_8e0955fb299f47fb907e5c312c4649e2~mv2.webp",
+    "total_cost": "$ 90",
+    "time": "Mon-Fri(09:30AM - 04:00PM)"
+  },
+  {
+    "id": 4,
+    "name": "Pathology",
+    "description": "Pathology is the medical specialty concerned with the study of the nature and causes of diseases.",
+    "desctiptionFull": "Pathology is the medical specialty concerned with the study of the nature and causes of diseases. It underpins every aspect of medicine, from diagnostic testing and monitoring of chronic diseases to cutting-edge genetic research and blood transfusion technologies. Pathology is integral to the diagnosis of every cancer.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9_vEakxNuEIHWnM_qA4HlRYBvhbdcMWynog&usqp=CAU",
+    "total_cost": "$ 70-120",
+    "time": "Mon-Fri(09:30AM - 04:00PM)"
+  },
+  {
+    "id": 5,
+    "name": "CT Scan (Computed Tomography)",
+    "description": "Computed tomography (CT) scan is a useful diagnostic tool for detecting diseases and injuries. It uses a series of X-rays and a computer to produce a 3D image of soft tissues and bones.",
+    "desctiptionFull": "Medical professionals use computed tomography, also known as CT scan, to examine structures inside your body. A CT scan uses X-rays and computers to produce images of a cross-section of your body. It takes pictures that show very thin “slices” of your bones, muscles, organs and blood vessels so that healthcare providers can see your body in great detail. Traditional X-ray machines use a fixed tube to point X-rays at a single spot. As X-rays travel through the body, they are absorbed in different amounts by different tissues. Higher density tissue create a whiter image than other tissues against the black background of the film. X-rays produce 2D images. CT scans have a doughnut-shaped tube that rotates the X-ray 360 degrees around you. The data captured provides a detailed 3D view of the inside of your body.",
+    "img": "https://image.shutterstock.com/image-photo/ct-computerized-tomography-scan-device-260nw-1006650835.jpg",
+    "total_cost": "$ 150",
+    "time": "Mon-Fri(09:30AM - 04:00PM)"
+  },
+  {
+    "id": 6,
+    "name": "MRI scan",
+    "description": "Magnetic resonance imaging (MRI) is a type of scan that uses strong magnetic fields and radio waves to produce detailed images of the inside of the body. An MRI scanner is a large tube that contains powerful magnets",
+    "desctiptionFull": "The MRI scanner is operated by a radiographer, who is trained in carrying out imaging investigations. They control the scanner using a computer, which is in a different room, to keep it away from the magnetic field generated by the scanner.You'll be able to talk to the radiographer through an intercom and they'll be able to see you on a television monitor throughout the scan.At certain times during the scan, the scanner will make loud tapping noises. This is the electric current in the scanner coils being turned on and off.You'll be given earplugs or headphones to wear. It's very important to keep as still as possible during your MRI scan.The scan lasts 15 to 90 minutes, depending on the size of the area being scanned and how many images are taken.Read more about how an MRI scan is performed.",
+    "img": "https://image.shutterstock.com/image-photo/mri-magnetic-resonance-tomography-imaging-260nw-1751226356.jpg",
+    "total_cost": "$ 120",
+    "time": "Mon-Fri(09:30AM - 04:00PM)"
+  }
+]
