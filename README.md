@@ -5,10 +5,15 @@
 ### Road map:
 
 <ul>
-<li>I have created JSON data(stored in 'Public' ) as of myself for this project. On the go through of my journey, I used plain CSS as well as Bootstrap. I also extended my dependencies for the smooth go of this project.</li>
-<li> I used many components (About,Doctors,Footer,Blogs,Header,Home,NotFound,Service,Services,Review ) with npm installation.</li>
-<li>I had to go for React Router Dom for making Routes on the go of this project.</li>
-<li>I had to use context API, Font awesome & private rout for the project.</li>
+<li>To make this website i have created my own data and stored it on public folder as Hospital.json . </li>
+<li>I have created the router and for this i had to go for React Router Dom for making Routes of this project.</li>
 <li>I had make an Email Authentication with Google sign in.
 </li>
 </ul>
+
+## About This Project:
+
+This project is all about a hospital . i have added several services in this project for the people and made them easy to execute.
+
+## User's Benefit 
+* The users can easily singn in and log in to this website and take several health issus services. 
